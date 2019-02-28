@@ -1,0 +1,8 @@
+getopt/
+msvcdbg/
+*.exe
+*.lib
+*.o
+*.obj
+*.out
+*.pdb
